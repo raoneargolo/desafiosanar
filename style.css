@@ -136,6 +136,22 @@
 	background-color: #FCFFFF;
 }
 
+.exemplo1,.exemplo2{
+	color: grey;
+}
+
+.nome1,.nome2{
+	font-family: georgia-i;
+}
+
+.titulo1,.titulo2{
+	font-family: opensans-sb;
+}
+
+.descricao1,.descricao2{
+	font-family: opensans-l;
+}
+
 .frame-4{
 	background-color: #2D3E50;
 }
