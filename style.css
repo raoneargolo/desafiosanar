@@ -107,6 +107,11 @@
 .color-menu-item{
 	color: #17A086;
 }
+
+body{
+	margin: 0px;
+}
+
 .menu{
 	background-color: #2C485D;
 }
