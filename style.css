@@ -209,24 +209,17 @@ body{
 	padding-right: 20%;
 }
 
-.frame-3 .lightbox{
-	width: 20%;
-	height: auto;
+.colunas-frame3{
 	float: left;
 	padding: 5%;
 }
 
-.colunas-frame3{
-	display: inline-block;
-}
-
-.colunas-frame3 img{
-	float: left;
-	display: block;
+.coluna-frame3 img{
+	width: 10%;
+	height: auto;
 }
 
 .colunas-frame3 p{
-	float: left;
 }
 
 .frame-4{
