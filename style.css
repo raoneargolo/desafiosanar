@@ -162,13 +162,13 @@ body{
 	text-align: center;
 }
 
-.botoes-principal{
+.botoes-principal, .botao-signup{
 	text-align: center;
 	margin-top: 6%;
 	margin-bottom: 6%
 }
 
-.take-a-tour-button,.watch-the-video-button{
+.take-a-tour-button,.watch-the-video-button, .botao-signup, .botao-signup-frame-4{
 	border-radius: 3px;
 	border: none;
 	margin: 0px;
@@ -182,7 +182,7 @@ body{
 	width: 20%;
 }
 
-.take-a-tour-button{
+.take-a-tour-button, .botao-signup, .botao-signup-frame-4{
 	background-color: #308981;
 	margin-right: 10px;
 }
@@ -205,14 +205,64 @@ body{
 	background-color: #2D3E50;
 }
 
+.frame-4{
+	text-align: center;
+	border: 20%;
+	padding-top: 5%;
+	padding-bottom: 2%;
+}
+
+.conteudo-frame-4{
+	text-align: center;
+	padding-left: 20%;
+	padding-right: 20%;
+}
+
+.titulo-frame-4{
+	font-size: 220%;
+}
+
 .frame-5, .frame-6{
 	background-color: #FFFFFF;
+}
+
+.frame-5{
+	text-align: center;
+	border: 25%;
+	padding-left: 20%;
+	padding-right: 20%;
+}
+
+.caixas-frame-5 img{
+	border-radius: 50%;
+}
+
+.caixa-padrao{
+	border: 0.009em solid grey;
+	box-sizing: border-box;
+}
+
+.conteudo-frame-6{
+	text-align: center;
+	border: 25%;
+	padding-left: 20%;
+	padding-right: 20%;
+}
+
+.titulo-frame-6{
+	font-size: 200%;
+}
+
+.botao-signup{
+	position: relative;
+	left: 40%;
 }
 
 .rodape{
 	border-top: 1px solid grey;
 	margin-top: 70px;
 }
+
 .rodape ul{
 	text-decoration: none;
 	list-style: none;
@@ -232,6 +282,8 @@ body{
 .footer-esquerda{
 	float: left;
 }
+
 .footer-direita{
 	float: right;
+	margin-right: 15px;
 }
