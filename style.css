@@ -1,1 +1,69 @@
+@font-face{
+	font-family: georgia;
+	src: url(font/georgia.ttf);
+}
 
+@font-face{
+	font-family: georgia-b;
+	src: url(font/georgiab.ttf);
+}
+
+@font-face{
+	font-family: georgia-i;
+	src: url(font/georgiai.ttf);
+}
+
+@font-face{
+	font-family: georgia-z;
+	src: url(font/georgiaz.ttf);
+}
+
+@font-face{
+	font-family: opensans-b;
+	src: url(font/OpenSans-Bold.ttf);
+}
+
+@font-face{
+	font-family: opensans-bi;
+	src: url(font/OpenSans-BoldItalic.ttf);
+}
+
+@font-face{
+	font-family: opensans-eb;
+	src: url(font/OpenSans-ExtraBold.ttf);
+}
+
+@font-face{
+	font-family: opensans-ebi;
+	src: url(font/OpenSans-ExtraBoldItalic.ttf);
+}
+
+@font-face{
+	font-family: opensans-i;
+	src: url(font/OpenSans-Italic.ttf);
+}
+
+@font-face{
+	font-family: opensans-l;
+	src: url(font/OpenSans-Light.ttf);
+}
+
+@font-face{
+	font-family: opensans-li;
+	src: url(font/OpenSans-LightItalic.ttf);
+}
+
+@font-face{
+	font-family: opensans-r;
+	src: url(font/OpenSans-Regular.ttf);
+}
+
+@font-face{
+	font-family: opensans-sb;
+	src: url(font/OpenSans-Semibold.ttf);
+}
+
+@font-face{
+	font-family: opensans-sbi;
+	src: url(font/OpenSans-SemiBoldItalic.ttf);
+}
