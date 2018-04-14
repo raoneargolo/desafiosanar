@@ -68,6 +68,10 @@
 	src: url(font/OpenSans-SemiBoldItalic.ttf);
 }
 
+.opensans-bold{
+	font-family: opensans-b;
+}
+
 .opensans-semibold{
 	font-family: opensans-sb;
 }
@@ -92,6 +96,13 @@
 	color: white;
 }
 
+.green-color{
+	color: green;
+}
+
+.color-menu-item{
+	color: #17A086;
+}
 .menu{
 	background-color: #2C485D;
 }
