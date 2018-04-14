@@ -128,8 +128,12 @@ body{
 .lista-links-menu{
 	float: right;
 	list-style: none;
-	display: inline-block;
 }
+
+.lista-links-menu li{
+	display: inline;
+}
+
 .frame-principal{
 	background-color: #2D3E50;
 	color: white;
@@ -203,4 +207,31 @@ body{
 
 .frame-5, .frame-6{
 	background-color: #FFFFFF;
+}
+
+.rodape{
+	border-top: 1px solid grey;
+	margin-top: 70px;
+}
+.rodape ul{
+	text-decoration: none;
+	list-style: none;
+}
+
+.rodape li{
+	display: inline;
+	padding: 10px;
+}
+
+.rodape a{
+	text-decoration: none;
+	color: grey;
+	display: inline;
+}
+
+.footer-esquerda{
+	float: left;
+}
+.footer-direita{
+	float: right;
 }
