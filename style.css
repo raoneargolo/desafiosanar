@@ -67,3 +67,79 @@
 	font-family: opensans-sbi;
 	src: url(font/OpenSans-SemiBoldItalic.ttf);
 }
+
+.menu{
+	background-color: #2C485D;
+}
+
+.frame-principal{
+	background-color: #2D3E50;
+	color: white;
+}
+
+.selly{
+	display: block;
+	padding-top: 5%;
+	margin-left: 40%;
+	margin-right: auto;
+}
+
+.conteudo-principal {
+	text-align: center;
+}
+
+.texto1-principal{
+	font-family: opensans-l;
+	font-size: 200%;
+	border: 20%;
+	padding-left: 20%;
+	padding-right: 20%;
+	text-align: center;
+}
+
+.texto1-principal b{
+	font-family: opensans-eb;
+}
+
+.texto2-principal{
+	font-family: opensans-l;
+	text-align: center;
+}
+
+.take-a-tour-button{
+	background-color: #308981;
+	border: none;
+	margin: none;
+	padding: 25px 50px;
+	font-family: opensans-sb;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	box-sizing: border-box;
+}
+
+.watch-the-video-button{
+	background-color: #1B2C3C;
+	border: none;
+	margin: none;
+	padding: 25px 50px;
+	font-family: opensans-sb;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	box-sizing: border-box;
+}
+
+.frame-2, .frame-3{
+	background-color: #FCFFFF;
+}
+
+.frame-4{
+	background-color: #2D3E50;
+}
+
+.frame-5, .frame-6{
+	background-color: #FFFFFF;
+}
