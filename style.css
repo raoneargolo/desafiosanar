@@ -84,6 +84,24 @@
 	margin-right: auto;
 }
 
+.texto1-principal{
+	font-family: opensans-l;
+	font-size: 200%;
+	border: 20%;
+	padding-left: 20%;
+	padding-right: 20%;
+	text-align: center;
+}
+
+.texto1-principal b{
+	font-family: opensans-eb;
+}
+
+.texto2-principal{
+	font-family: opensans-l;
+	text-align: center;
+}
+
 .frame-2, .frame-3{
 	background-color: #FCFFFF;
 }
