@@ -84,6 +84,10 @@
 	margin-right: auto;
 }
 
+.conteudo-principal {
+	text-align: center;
+}
+
 .texto1-principal{
 	font-family: opensans-l;
 	font-size: 200%;
@@ -100,6 +104,32 @@
 .texto2-principal{
 	font-family: opensans-l;
 	text-align: center;
+}
+
+.take-a-tour-button{
+	background-color: #308981;
+	border: none;
+	margin: none;
+	padding: 25px 50px;
+	font-family: opensans-sb;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	box-sizing: border-box;
+}
+
+.watch-the-video-button{
+	background-color: #1B2C3C;
+	border: none;
+	margin: none;
+	padding: 25px 50px;
+	font-family: opensans-sb;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	box-sizing: border-box;
 }
 
 .frame-2, .frame-3{
