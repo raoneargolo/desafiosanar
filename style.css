@@ -92,6 +92,10 @@
 	font-family: georgia-i;
 }
 
+.georgia{
+	font-family: georgia;
+}
+
 .grey-color{
 	color: grey;
 }
@@ -201,6 +205,11 @@ body{
 	background-color: #FCFFFF;
 }
 
+.boxes-frame3 img{
+	width: 10%;
+	height: auto;
+}
+
 .frame-4{
 	background-color: #2D3E50;
 }
@@ -240,6 +249,7 @@ body{
 .caixa-padrao{
 	border: 0.009em solid grey;
 	box-sizing: border-box;
+	border:75%;
 }
 
 .conteudo-frame-6{
