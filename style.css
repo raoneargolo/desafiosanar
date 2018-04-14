@@ -67,3 +67,23 @@
 	font-family: opensans-sbi;
 	src: url(font/OpenSans-SemiBoldItalic.ttf);
 }
+
+.menu{
+	background-color: #2C485D;
+}
+
+.frame-principal{
+	background-color: #2D3E50;
+}
+
+.frame-2, .frame-3{
+	background-color: #FCFFFF;
+}
+
+.frame-4{
+	background-color: #2D3E50;
+}
+
+.frame-5, .frame-6{
+	background-color: #FFFFFF;
+}
