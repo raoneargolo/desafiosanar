@@ -121,13 +121,10 @@ body{
 }
 
 .logo-sanar{
-	padding: 25px;
+	padding-top: 25px;
 	box-sizing: border-box;
 }
 
-.menu ul{
-	display: inline-block;
-}
 .lista-links-menu{
 	float: right;
 	list-style: none;
@@ -161,28 +158,39 @@ body{
 	text-align: center;
 }
 
-.take-a-tour-button{
-	background-color: #308981;
+.botoes-principal{
+	text-align: center;
+	margin-top: 6%;
+	margin-bottom: 6%
+}
+
+.take-a-tour-button,.watch-the-video-button{
+	border-radius: 3px;
 	border: none;
-	margin: none;
+	margin: 0px;
 	padding: 25px 50px;
+	font-size: 100%;
 	color: white;
 	text-align: center;
 	text-decoration: none;
 	text-transform: uppercase;
 	box-sizing: border-box;
+	width: 20%;
+}
+
+.take-a-tour-button{
+	background-color: #308981;
+	margin-right: 10px;
 }
 
 .watch-the-video-button{
 	background-color: #1B2C3C;
-	border: none;
-	margin: none;
-	padding: 25px 50px;
-	color: white;
-	text-align: center;
-	text-decoration: none;
-	text-transform: uppercase;
-	box-sizing: border-box;
+	margin-left: 10px;
+}
+
+.descer-pagina-principal{
+	margin-top: 100px;
+	padding-bottom: 100px;
 }
 
 .frame-2, .frame-3{
