@@ -68,6 +68,30 @@
 	src: url(font/OpenSans-SemiBoldItalic.ttf);
 }
 
+.opensans-semibold{
+	font-family: opensans-sb;
+}
+
+.opensans-light{
+	font-family: opensans-l;
+}
+
+.opensans-extra-bold{
+	font-family: opensans-eb;
+}
+
+.georgia-italic{
+	font-family: georgia-i;
+}
+
+.grey-color{
+	color: grey;
+}
+
+.white-color{
+	color: white;
+}
+
 .menu{
 	background-color: #2C485D;
 }
@@ -89,7 +113,6 @@
 }
 
 .texto1-principal{
-	font-family: opensans-l;
 	font-size: 200%;
 	border: 20%;
 	padding-left: 20%;
@@ -97,12 +120,7 @@
 	text-align: center;
 }
 
-.texto1-principal b{
-	font-family: opensans-eb;
-}
-
 .texto2-principal{
-	font-family: opensans-l;
 	text-align: center;
 }
 
@@ -111,7 +129,6 @@
 	border: none;
 	margin: none;
 	padding: 25px 50px;
-	font-family: opensans-sb;
 	color: white;
 	text-align: center;
 	text-decoration: none;
@@ -124,7 +141,6 @@
 	border: none;
 	margin: none;
 	padding: 25px 50px;
-	font-family: opensans-sb;
 	color: white;
 	text-align: center;
 	text-decoration: none;
@@ -134,22 +150,6 @@
 
 .frame-2, .frame-3{
 	background-color: #FCFFFF;
-}
-
-.exemplo1,.exemplo2{
-	color: grey;
-}
-
-.nome1,.nome2{
-	font-family: georgia-i;
-}
-
-.titulo1,.titulo2{
-	font-family: opensans-sb;
-}
-
-.descricao1,.descricao2{
-	font-family: opensans-l;
 }
 
 .frame-4{
