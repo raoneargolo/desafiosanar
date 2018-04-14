@@ -108,6 +108,10 @@
 	color: #17A086;
 }
 
+.text-decoration-none{
+	text-decoration: none;
+}
+
 body{
 	margin: 0px;
 }
@@ -116,6 +120,19 @@ body{
 	background-color: #2C485D;
 }
 
+.logo-sanar{
+	padding: 25px;
+	box-sizing: border-box;
+}
+
+.menu ul{
+	display: inline-block;
+}
+.lista-links-menu{
+	float: right;
+	list-style: none;
+	display: inline-block;
+}
 .frame-principal{
 	background-color: #2D3E50;
 	color: white;
